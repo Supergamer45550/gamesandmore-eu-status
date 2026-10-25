@@ -1,2 +1,2 @@
-# gamesandmore-eu-downtime
+# gamesandmore-eu-status
 Backup Website for downtime
